@@ -1,5 +1,5 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-07-22T16:23:09.850Z
+# Generated: 2026-07-22T16:43:49.330Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
@@ -32,6 +32,30 @@
 /blog/kosher-dubai/jewish-holidays  /blog/kosher-dubai/jewish-holidays.html  200!
 /contact  /contact.html  200!
 
+# Language slug rewrites for SEO
+/en  /en/index.html  200!
+/en/hotels  /en/hotels.html  200!
+/en/sim-card  /en/sim-card.html  200!
+/en/airport-transfers  /en/airport-transfers.html  200!
+/en/attractions  /en/attractions.html  200!
+/en/products  /en/products.html  200!
+/en/cart  /en/cart.html  200!
+/en/checkout  /en/checkout.html  200!
+/en/login  /en/login.html  200!
+/en/account  /en/account.html  200!
+/en/order-success  /en/order-success.html  200!
+/en/return-policy  /en/return-policy.html  200!
+/en/privacy  /en/privacy.html  200!
+/en/accessibility  /en/accessibility.html  200!
+/en/terms  /en/terms.html  200!
+/en/restaurants  /en/restaurants.html  200!
+/en/dubai-magazine-for-israeli-travelers  /en/dubai-magazine-for-israeli-travelers.html  200!
+/en/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt  /en/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt.html  200!
+/en/dubai-must-see-attractions  /en/dubai-must-see-attractions.html  200!
+/en/dubai-hotels-marina-downtown-palm  /en/dubai-hotels-marina-downtown-palm.html  200!
+/en/contact  /en/contact.html  200!
+/en  /en/index.html  200!
+
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
 /accessibility.html  /accessibility  301
@@ -42,3 +66,5 @@
 # Dynamic routes - serve dedicated HTML templates for dynamic paths
 /product/*  /product.html  200!
 /category/*  /category.html  200!
+/en/product/*  /en/product/index.html  200!
+/en/category/*  /en/category/index.html  200!

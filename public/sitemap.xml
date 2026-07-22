@@ -1,184 +1,545 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
+  </url>
+  <url>
+    <loc>https://example.com/en</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com" />
   </url>
   <url>
     <loc>https://example.com/hotels</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/hotels" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/hotels" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/hotels" />
+  </url>
+  <url>
+    <loc>https://example.com/en/hotels</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/hotels" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/hotels" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/hotels" />
   </url>
   <url>
     <loc>https://example.com/sim-card</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sim-card" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sim-card" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sim-card" />
+  </url>
+  <url>
+    <loc>https://example.com/en/sim-card</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/sim-card" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/sim-card" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/sim-card" />
   </url>
   <url>
     <loc>https://example.com/airport-transfers</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/airport-transfers" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/airport-transfers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/airport-transfers" />
+  </url>
+  <url>
+    <loc>https://example.com/en/airport-transfers</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/airport-transfers" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/airport-transfers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/airport-transfers" />
   </url>
   <url>
     <loc>https://example.com/attractions</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/attractions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/attractions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/attractions" />
+  </url>
+  <url>
+    <loc>https://example.com/en/attractions</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/attractions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/attractions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/attractions" />
   </url>
   <url>
     <loc>https://example.com/products</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
+  </url>
+  <url>
+    <loc>https://example.com/en/products</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/products" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/products" />
   </url>
   <url>
     <loc>https://example.com/cart</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/cart" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/cart" />
+  </url>
+  <url>
+    <loc>https://example.com/en/cart</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/cart" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/cart" />
   </url>
   <url>
     <loc>https://example.com/checkout</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/checkout" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/checkout" />
+  </url>
+  <url>
+    <loc>https://example.com/en/checkout</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/checkout" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/checkout" />
   </url>
   <url>
     <loc>https://example.com/login</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/login" />
+  </url>
+  <url>
+    <loc>https://example.com/en/login</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/login" />
   </url>
   <url>
     <loc>https://example.com/account</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/account" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/account" />
+  </url>
+  <url>
+    <loc>https://example.com/en/account</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/account" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/account" />
   </url>
   <url>
     <loc>https://example.com/order-success</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/order-success" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/order-success" />
+  </url>
+  <url>
+    <loc>https://example.com/en/order-success</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/order-success" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/order-success" />
   </url>
   <url>
     <loc>https://example.com/product/:slug</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/product/:slug" />
+  </url>
+  <url>
+    <loc>https://example.com/en/product/:slug</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/product/:slug" />
   </url>
   <url>
     <loc>https://example.com/category/:slug</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/category/:slug" />
+  </url>
+  <url>
+    <loc>https://example.com/en/category/:slug</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/category/:slug" />
   </url>
   <url>
     <loc>https://example.com/restaurants</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/restaurants" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/restaurants" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/restaurants" />
+  </url>
+  <url>
+    <loc>https://example.com/en/restaurants</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/restaurants" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/restaurants" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/restaurants" />
   </url>
   <url>
     <loc>https://example.com/dubai-magazine-for-israeli-travelers</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dubai-magazine-for-israeli-travelers" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dubai-magazine-for-israeli-travelers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dubai-magazine-for-israeli-travelers" />
+  </url>
+  <url>
+    <loc>https://example.com/en/dubai-magazine-for-israeli-travelers</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dubai-magazine-for-israeli-travelers" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dubai-magazine-for-israeli-travelers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dubai-magazine-for-israeli-travelers" />
   </url>
   <url>
     <loc>https://example.com/blog/dubai-dining-nightlife</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/dubai-dining-nightlife" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/dubai-dining-nightlife" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/dubai-dining-nightlife" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/dubai-dining-nightlife</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/dubai-dining-nightlife" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/dubai-dining-nightlife" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/dubai-dining-nightlife" />
   </url>
   <url>
     <loc>https://example.com/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt" />
+  </url>
+  <url>
+    <loc>https://example.com/en/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt" />
   </url>
   <url>
     <loc>https://example.com/dubai-must-see-attractions</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dubai-must-see-attractions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dubai-must-see-attractions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dubai-must-see-attractions" />
+  </url>
+  <url>
+    <loc>https://example.com/en/dubai-must-see-attractions</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dubai-must-see-attractions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dubai-must-see-attractions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dubai-must-see-attractions" />
   </url>
   <url>
     <loc>https://example.com/blog/dubai-shopping-guide</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/dubai-shopping-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/dubai-shopping-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/dubai-shopping-guide" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/dubai-shopping-guide</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/dubai-shopping-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/dubai-shopping-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/dubai-shopping-guide" />
   </url>
   <url>
     <loc>https://example.com/blog/dubai-transportation-smart-guide</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/dubai-transportation-smart-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/dubai-transportation-smart-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/dubai-transportation-smart-guide" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/dubai-transportation-smart-guide</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/dubai-transportation-smart-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/dubai-transportation-smart-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/dubai-transportation-smart-guide" />
   </url>
   <url>
     <loc>https://example.com/dubai-hotels-marina-downtown-palm</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dubai-hotels-marina-downtown-palm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dubai-hotels-marina-downtown-palm" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dubai-hotels-marina-downtown-palm" />
+  </url>
+  <url>
+    <loc>https://example.com/en/dubai-hotels-marina-downtown-palm</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/dubai-hotels-marina-downtown-palm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/dubai-hotels-marina-downtown-palm" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/dubai-hotels-marina-downtown-palm" />
   </url>
   <url>
     <loc>https://example.com/blog/kosher-dubai</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/kosher-dubai</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai" />
   </url>
   <url>
     <loc>https://example.com/blog/kosher-dubai/kosher-restaurants</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/kosher-restaurants" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/kosher-restaurants" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/kosher-restaurants" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/kosher-dubai/kosher-restaurants</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/kosher-restaurants" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/kosher-restaurants" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/kosher-restaurants" />
   </url>
   <url>
     <loc>https://example.com/blog/kosher-dubai/jewish-life</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/jewish-life" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/jewish-life" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/jewish-life" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/kosher-dubai/jewish-life</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/jewish-life" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/jewish-life" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/jewish-life" />
   </url>
   <url>
     <loc>https://example.com/blog/kosher-dubai/shabbat-guide</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/shabbat-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/shabbat-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/shabbat-guide" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/kosher-dubai/shabbat-guide</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/shabbat-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/shabbat-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/shabbat-guide" />
   </url>
   <url>
     <loc>https://example.com/blog/kosher-dubai/jewish-holidays</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/jewish-holidays" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/jewish-holidays" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/jewish-holidays" />
+  </url>
+  <url>
+    <loc>https://example.com/en/blog/kosher-dubai/jewish-holidays</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/blog/kosher-dubai/jewish-holidays" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/blog/kosher-dubai/jewish-holidays" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/blog/kosher-dubai/jewish-holidays" />
   </url>
   <url>
     <loc>https://example.com/contact</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
+  </url>
+  <url>
+    <loc>https://example.com/en/contact</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/contact" />
   </url>
   <url>
     <loc>https://example.com/privacy</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
+  </url>
+  <url>
+    <loc>https://example.com/en/privacy</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/privacy" />
   </url>
   <url>
     <loc>https://example.com/terms</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
+  </url>
+  <url>
+    <loc>https://example.com/en/terms</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/terms" />
   </url>
   <url>
     <loc>https://example.com/accessibility</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
+  </url>
+  <url>
+    <loc>https://example.com/en/accessibility</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://example.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/accessibility" />
   </url>
   <url>
     <loc>https://example.com/product/lymvzynh-yvkrtyt-bdvbay-luxury-limousine-dubai-yc5yyp</loc>
