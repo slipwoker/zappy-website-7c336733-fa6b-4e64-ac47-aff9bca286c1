@@ -1,0 +1,523 @@
+# Sarah laloum tourism llc — Generative Engine Optimization Map
+
+> A luxury Dubai tourism website targeting Israeli travelers, offering a comprehensive one-stop platform for planning a Dubai trip. The site features direct hotel booking links via WhatsApp, curated attraction pages with individual imagery and booking options (yacht rentals, flower garden, Global Village, desert safari, Burj Khalifa, Atlantis water park, Palm Island observation), SIM card referrals, transfers booking form, and future services including car rental and nanny services. The design vision is premium and luxurious, with payment integration desired.
+
+---
+
+## Pages
+
+### תכנן חופשת דובאי מושלמת — Duabi plus
+https://example.com
+הפלטפורמה המובילה לישראלים לתכנון טיול דובאי יוקרתי. מלונות, אטרקציות, העברות וסים — הכל במקום אחד. הזמן עכשיו ותחווה דובאי כמו מעולם לא חווית!
+
+### מלונות דובאי היוקרתיים מחכים לך — Duabi plus
+https://example.com/hotels
+גלה מלונות חמישה כוכבים בדובאי עם הזמנה מהירה דרך וואטסאפ. מחירים מיוחדים לישראלים, מיקומים מובחרים ושירות אישי. שמור את החדר שלך עוד היום!
+
+### Page
+https://example.com/sim-card
+
+### שירותי נסיעות VIP לדובאי — הכל בלחיצה — Duabi plus
+https://example.com/airport-transfers
+העברות שדה תעופה, כרטיסי סים בינלאומיים, השכרת רכב ושירותי בייביסיטר בדובאי — כל מה שצריך לטיול מושלם. הזמן שירותי נסיעות פרימיום ותיהנה מכל רגע!
+
+### האטרקציות הטובות ביותר בדובאי מגיעות אליך — Duabi plus
+https://example.com/attractions
+ברג&#39; ח&#39;ליפה, ספארי מדבר, גלובל וילג&#39;, גן הפרחים ויאכטות פרטיות — הזמן כרטיסים לאטרקציות דובאי המרהיבות ביותר בקלות ובמחיר הטוב ביותר. חוויה שלא תשכח!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Sarah laloum tourism llc
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Sarah laloum tourism llc
+
+### Category
+https://example.com/category/:slug
+מוצרים - Sarah laloum tourism llc
+
+### מסעדות דובאי שישאירו אותך פעור פה — Duabi plus
+https://example.com/restaurants
+חוויות קולינריות בלתי נשכחות בדובאי — ממסעדות שף עולמיות ועד מטבח מקומי אותנטי. גלה המלצות מסעדות נבחרות לישראלים עם תפריטים, מיקומים והזמנת מקום!
+
+### מגזין דובאי למטייל הישראלי
+https://example.com/dubai-magazine-for-israeli-travelers
+Sarah laloum tourism llc - מגזין דובאי למטייל הישראלי
+
+### מסעדות וחיי ערב בדובאי: מדריך אלגנטי לחוויה קולינרית בלתי נשכחת
+https://example.com/blog/dubai-dining-nightlife
+איך לבחור מסעדות בדובאי, מתי להזמין מקום, ואיך לשלב בין נוף, אוכל, אווירה וחיי ערב.
+
+### דובאי בפעם הראשונה: איך לבנות חופשה חכמה, נעימה ויוקרתית
+https://example.com/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt
+מדריך פרקטי למטייל הישראלי שמגיע לדובאי בפעם הראשונה ורוצה לתכנן חופשה נוחה, יוקרתית ומדויקת.
+
+### אטרקציות בדובאי שלא כדאי לפספס — ומה מתאים לכל סוג מטייל
+https://example.com/dubai-must-see-attractions
+מדריך לבחירת אטרקציות בדובאי לפי סגנון החופשה, גיל המטיילים וקצב הטיול הרצוי.
+
+### שופינג בדובאי: איך ליהנות מקניונים, שווקים ובוטיקים בלי להתפזר
+https://example.com/blog/dubai-shopping-guide
+Sarah laloum tourism llc - שופינג בדובאי: איך ליהנות מקניונים, שווקים ובוטיקים בלי להתפזר
+
+### התניידות בדובאי: איך לעבור בין אזורים, חופים וקניונים בצורה חכמה
+https://example.com/blog/dubai-transportation-smart-guide
+Sarah laloum tourism llc - התניידות בדובאי: איך לעבור בין אזורים, חופים וקניונים בצורה חכמה
+
+### המלונות בדובאי: איך לבחור נכון בין חוף, מרינה, דאונטאון ופאלם
+https://example.com/dubai-hotels-marina-downtown-palm
+סקירה ברורה של אזורי הלינה המרכזיים בדובאי ומה מתאים לכל סגנון חופשה.
+
+### כשרות בדובאי
+https://example.com/blog/kosher-dubai
+Sarah laloum tourism llc - כשרות בדובאי
+
+### מסעדות כשרות בדובאי: איך לבחור נכון ולאכול בראש שקט
+https://example.com/blog/kosher-dubai/kosher-restaurants
+מדריך פרקטי למטייל הישראלי שמחפש אוכל כשר בדובאי, עם דגש על תכנון, אזורים, הזמנות ושאלות שכדאי לשאול מראש.
+
+### יהדות בדובאי: קהילה, בתי כנסת וחוויה יהודית בעיר מודרנית
+https://example.com/blog/kosher-dubai/jewish-life
+היכרות עם החיים היהודיים בדובאי עבור מטיילים ישראלים, כולל קהילה, תפילה, אירוח וכללי התנהלות מכבדת.
+
+### שבת בדובאי: מדריך רגוע לתכנון חופשה שומרת שבת
+https://example.com/blog/kosher-dubai/shabbat-guide
+טיפים לתכנון שבת בדובאי: בחירת מלון, מרחקים, אוכל כשר, מפתחות, מעליות ואווירה משפחתית נוחה.
+
+### חגים ואירועים יהודיים בדובאי: מה חשוב לדעת לפני שמזמינים
+https://example.com/blog/kosher-dubai/jewish-holidays
+מדריך לתכנון חגים ואירועים יהודיים בדובאי, כולל פסח, ראש השנה, חנוכה, בר מצווה, שבת חתן ואירועים משפחתיים.
+
+### דברו איתנו ותכננו את הטיול המושלם — Duabi plus
+https://example.com/contact
+יש לכם שאלות על טיול דובאי? צוות המומחים שלנו זמין עבורכם. צרו קשר עכשיו לייעוץ אישי חינם, ושירותים חדשים בדרך — השאירו פרטים ותהיו הראשונים לדעת!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+**Total active products: 45**
+
+### לימוזינה יוקרתית בדובאי  Luxury Limousine Dubai
+https://example.com/product/lymvzynh-yvkrtyt-bdvbay-luxury-limousine-dubai-yc5yyp
+- Price: 800.00 ILS
+- Availability: In stock
+- Category: אטרקציות בדובאי
+- Description: לימוזינה יוקרתית בדובאי הפכו כל אירוע לחוויה בלתי נשכחת עם לימוזינה מפוארת בדובאי. מושלמת לימי הולדת, הצעות נישואין, מסיבות, סיורים בעיר או הסעה יוקרתית – עם נהג מקצועי ושירות ברמה הגבוהה ביותר.
+- Image: https://example.com/assets/product-1784123372057-5p18g.webp
+
+### נהג יום שלם (10 שעות)
+https://example.com/product/nhg-yvm-shlm-10-shavt-xn1yt4
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: העברות בדובאי ואבו דאבי
+- Description: נהג פרטי ליום שלם (10 שעות) גלו את דובאי בקצב שלכם עם נהג פרטי צמוד למשך 10 שעות. השירות כולל איסוף מכל מקום בעיר, נסיעה בין האטרקציות, הקניונים, המסעדות והאתרים המובילים – בנוחות, בבטיחות וללא דאגות.
+- Image: https://example.com/assets/product-1784050792952-9up41e.webp
+
+### העברה מ/אל דובאי ל/אל אבו דאבי
+https://example.com/product/habrh-mal-dvbay-lal-abv-daby-ao88kq
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: העברות בדובאי ואבו דאבי
+- Description: העברה פרטית בין דובאי לאבו דאבי נוסעים מדובאי לאבו דאבי או מאבו דאבי לדובאי? הזמינו שירות העברות פרטי ברכב ממוזג ונוח עם נהג מקצועי. שירות מדלת לדלת, ללא המתנה וללא שיתוף עם נוסעים נוספים – הדרך הנוחה והבטוחה לעבור בין שתי הערים.
+- Image: https://example.com/assets/product-1784049497514-qfdmec.webp
+
+### העברה מ/אל השדה תעופה אבו דאבי
+https://example.com/product/habrh-mal-hshdh-tavph-abv-daby-g3a8bu
+- Price: 185.00 ILS
+- Availability: In stock
+- Category: העברות בדובאי ואבו דאבי
+- Description: העברה פרטית משדה התעופה באבו דאבי למלון התחילו את החופשה בראש שקט עם שירות העברות פרטי משדה התעופה הבינלאומי של אבו דאבי (AUH) לכל מלון או יעד בעיר. נהג מקצועי ימתין לכם עם שלט, יסייע עם המזוודות וייקח אתכם ישירות למלון ברכב ממוזג, נוח ומרווח – ללא המתנה וללא שיתוף עם נוסעים נוספים.
+- Image: https://example.com/assets/product-1784048888593-4d1m9c.webp
+
+### טיול ספארי מדבר כשר Kosher Desert Safari
+https://example.com/product/tyvl-spary-mdbr-kshr-kosher-desert-safari-mxg4t5
+- Price: 350.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: חוו את טיול המדבר הכשר המוביל בדובאי, המתקיים בכל יום שלישי. הטיול כולל נסיעה בג’יפ 4X4 בדיונות, עצירה לנהיגה עצמאית (בתשלום נפרד), רכיבה על גמלים, צפייה בשקיעה במדבר וארוחת ערב בשרית עשירה בכשרות המהודרת של הרב לוי דוכמן – חב”ד דובאי. חוויה מושלמת למשפחות, זוגות וקבוצות
+- Image: https://example.com/assets/product-1784030828929-tpspw9.webp
+
+### טיול מדבר באבו דאבי
+https://example.com/product/tyvl-mdbr-babv-daby-gmok68
+- Price: 215.00 ILS
+- Availability: In stock
+- Category: אטרקציות באבו דאבי
+- Description: טיול מדבר באבו דאבי הוא חוויה מושלמת למי שרוצה לגלות את יופיו של המדבר האמירתי. הטיול כולל נסיעה בדיונות, רכיבה על גמלים, גלישת חול, ארוחת ערב אותנטית ומופעים מסורתיים – שילוב מושלם של טבע, תרבות ואדרנלין. טיול מדבר באבו דאבי
+- Image: https://example.com/assets/product-1783881859413-zkretn.webp
+
+### טיסה במסוק מעל אבו דאבי
+https://example.com/product/tysh-bmsvk-mal-abv-daby-e2vrjf
+- Price: 750.00 ILS
+- Availability: In stock
+- Category: אטרקציות באבו דאבי
+- Description: טיסה במסוק באבו דאבי היא אחת החוויות היוקרתיות והמרשימות ביותר באיחוד האמירויות. במהלך הטיסה תיהנו מתצפית אווירית עוצרת נשימה על קו החוף, האיים המלאכותיים והאתרים המפורסמים של אבו דאבי – מזווית שלא ניתן לראות בשום דרך אחרת.
+- Image: https://example.com/assets/product-1783882227404-iuzij4.webp
+
+### Dinner in the Sky Dubai – ארוחה בשמיים
+https://example.com/product/dinner-in-the-sky-dubai-arvchh-bshmyym-vjn47i
+- Price: 750.00 ILS
+- Availability: In stock
+- Category: מגדלים ותצפיות
+- Description: Dinner in the Sky Dubai היא אחת מחוויות האוכל הייחודיות בעולם. שבו סביב שולחן התלוי בגובה של כ-50 מטרים, ותיהנו מארוחה יוקרתית לצד נוף פנורמי מרהיב של קו החוף והאטרקציות המפורסמות של דובאי.
+- Image: https://example.com/assets/product-1783876576539-3ey0x.webp
+
+### Sky Views Edge Walk – הליכה על קצה המגדל
+https://example.com/product/sky-views-edge-walk-hlykh-al-ktsh-hmgdl-rg0nfu
+- Price: 350.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: Sky Views Edge Walk היא אחת מחוויות האקסטרים הגבוהות והמרגשות ביותר בדובאי. צאו להליכה חיצונית על שפת המגדל בגובה של יותר מ-219 מטרים, ללא מעקה, כשאתם מחוברים למערכת בטיחות מתקדמת ונהנים מנוף פנורמי עוצר נשימה של העיר.
+- Image: https://example.com/assets/product-1783876310772-vuc1j8.webp
+
+### Flyboard Dubai – פלייבורד בדובאי
+https://example.com/product/flyboard-dubai-plyybvrd-bdvbay-g5ocxh
+- Price: 390.00 ILS
+- Availability: In stock
+- Category: שייט וספורט ימי אבו דאבי
+- Description: Flyboard Dubai היא אחת מחוויות האקסטרים המלהיבות ביותר בדובאי. בעזרת סילוני מים עוצמתיים תוכלו לרחף מעל הים, לבצע פניות, קפיצות ותרגילים מרשימים – והכל בליווי מדריך מקצועי ובטיחותי.
+- Image: https://example.com/assets/product-1783875950865-3lm21s.webp
+
+### ifly dubai
+https://example.com/product/ifly-dubai-nq0fdw
+- Price: 180.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: iFLY Dubai היא חוויית צניחה חופשית במנהרת רוח מתקדמת, המאפשרת להרגיש כמו בצניחה אמיתית – ללא צורך לקפוץ ממטוס. הפעילות מתאימה למתחילים ולמנוסים כאחד, ומספקת שילוב מושלם של אדרנלין, כיף וחוויה בלתי נשכחת לכל המשפחה.
+- Image: https://example.com/assets/product-1783875688266-j0g3m.webp
+
+### Love Boats Dubai – שייט בסירות האהבה
+https://example.com/product/love-boats-dubai-shyyt-bsyrvt-hahbh-wgqseq
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: Love Boats Dubai הוא שייט מהיר בסירת מנוע עוצמתית, המאפשר לחוות את קו החוף של דובאי מקרוב. במהלך ההפלגה תעברו ליד האטרקציות המפורסמות ביותר בעיר, תיהנו מנופים עוצרי נשימה, עצירות לצילום והרבה אדרנלין.
+- Image: https://example.com/assets/product-1783874774939-0clcw4.webp
+
+### The Yellow Boats Dubai – השייט בסירות הצהובות
+https://example.com/product/the-yellow-boats-dubai-hshyyt-bsyrvt-htshvbvt-mf36zq
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: The Yellow Boats Dubai הוא שייט מהיר ומהנה בסירות הצהובות המפורסמות של דובאי. במהלך ההפלגה תיהנו משילוב של אדרנלין, נופים מרהיבים והסברים על האטרקציות המרכזיות לאורך קו החוף של העיר.
+- Image: https://example.com/assets/product-1783873666415-q5hy8r.webp
+
+### שייט בסירות השחורות BLACK BOAT
+https://example.com/product/shyyt-bsyrvt-hshchvrvt-black-boat-8osus2
+- Price: 95.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: שייט בסירת Black Boat הוא אחת מחוויות השייט המהירות והמהנות ביותר בדובאי. הפליגו בסירת RIB עוצמתית לאורך קו החוף של העיר, עברו ליד האטרקציות המפורסמות ביותר ותיהנו משילוב מושלם של אדרנלין, נופים עוצרי נשימה וצילומים בלתי נשכחים.
+- Image: https://example.com/assets/product-1783872893712-7x6w3.webp
+
+### העברה מהשדה תעופה בדובאי או אל השדה תעופה 
+https://example.com/product/habrh-mhshdh-tavph-bdvbay-av-al-hshdh-tavph-xqqarr
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: העברות בדובאי ואבו דאבי
+- Description: העברה פרטית משדה התעופה בדובאי התחילו את החופשה בראש שקט עם שירות העברות פרטי משדה התעופה לכל יעד בדובאי. הנהגים שלנו ימתינו לכם עם שלט קבלת פנים, יסייעו עם המזוודות וייקחו אתכם ישירות למלון ברכב ממוזג, נוח ומרווח – ללא המתנה וללא שיתוף עם נוסעים נוספים.
+- Image: https://example.com/assets/product-1784036471035-mjf35h.webp
+
+### שייט משותף שעה במרינה
+https://example.com/product/shyyt-mshvtp-shah-bmrynh-a02oce
+- Price: 89.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: אטרקציות בדובאי
+- Description: שייט משותף במרינה של דובאי הוא דרך מושלמת ליהנות מחוויית יאכטה יוקרתית במחיר משתלם. במהלך השייט תפליגו לאורך קו החוף של דובאי, תעברו מול האטרקציות המפורסמות ביותר ותיהנו מנופים מרהיבים, מוזיקה, אווירה נעימה.
+- Image: https://example.com/assets/product-1783533431648-rc8vz.webp
+
+### מוזיאון השעווה דובאי Madame Tussauds Dubai
+https://example.com/product/mvzyavn-hshavvh-dvbay-madame-tussauds-dubai-c3fgob
+- Price: 67.00 ILS
+- Availability: In stock
+- Category: מופעים ומוזיאונים
+- Description: Madame Tussauds Dubai הוא מוזיאון השעווה המפורסם בעולם, שבו תוכלו לפגוש מקרוב עשרות דמויות שעווה של כוכבי קולנוע, זמרים, ספורטאים, מנהיגים ואנשי תרבות מכל העולם. חוויה מהנה, אינטראקטיבית ומושלמת לכל המשפחה.
+- Image: https://example.com/assets/product-1783532929895-4adrdg.webp
+
+### מוזיאון OLIOLI
+https://example.com/product/mvzyavn-olioli-3dgr2c
+- Price: 128.00 ILS
+- Availability: In stock
+- Category: אטרקציות לילדים
+- Description: OliOli® Dubai הוא מוזיאון אינטראקטיבי לילדים המשלב משחק, יצירתיות, מדע ודמיון. עם למעלה מ-40 מתקנים ומיצגים מעשירים בשמונה גלריות שונות, זוהי אחת האטרקציות המומלצות ביותר למשפחות עם ילדים בדובאי.
+- Image: https://example.com/assets/product-1783532380906-nb2ybc.webp
+
+### כוכב הלכת הירוק
+https://example.com/product/kvkb-hlkt-hyrvk-hl1m6g
+- Price: 139.00 ILS
+- Availability: In stock
+- Category: פארקים וגנים
+- Description: The Green Planet Dubai הוא יער גשם טרופי מקורה בלב דובאי, שבו חיים למעלה מ-3,000 בעלי חיים וצמחים אקזוטיים. זוהי חוויה ייחודית לכל המשפחה המשלבת טבע, חינוך והרפתקה באחד המקומות המיוחדים ביותר בעיר.
+- Image: https://example.com/assets/product-1783531803994-cid689.webp
+
+### שייט הלוטוס – Lotus Mega Yacht Dinner Cruise
+https://example.com/product/shyyt-hlvtvs-lotus-mega-yacht-dinner-cruise-j7oq08
+- Price: 229.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: שייט הלוטוס – Lotus Mega Yacht Dinner Cruise חוויית ערב יוקרתית על אחת היאכטות המרשימות ביותר בדובאי. במהלך השייט תיהנו מארוחת בופה עשירה עם עמדות הכנה חיות, מופעי בידור, DJ חי, נופים מרהיבים של קו החוף של דובאי ואווירה בלתי נשכחת. השייט יוצא ממרינת דובאי ונמשך כ-3 שעות.
+- Image: https://example.com/assets/product-1783426028874-y4vimu.webp
+
+### מופע לה פרל דובאי La Perle By Dragone
+https://example.com/product/mvpa-lh-prl-dvbay-la-perle-by-dragone-fy5jmj
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: מופעים ומוזיאונים
+- Description: מופע לה פרל (La Perle by Dragone) הוא אחד המופעים המרשימים והיוקרתיים ביותר בדובאי. שילוב יוצא דופן של אקרובטיקה, צלילות מגובה רב, אפקטים מיוחדים, מים, תאורה ומוזיקה – לחוויה בלתי נשכחת המתאימה לכל המשפחה.
+- Image: https://example.com/assets/product-ai-fit-1783442770784-80jv28.webp
+
+### יאכטה פרטית בדובאי
+https://example.com/product/yakth-prtyt-bdvbay-gj9f83
+- Price: 580.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: השכרת יאכטה פרטית יוקרתית בדובאי עם צוות מקצועי. חוויה מושלמת למשפחות, זוגות, קבוצות, ימי הולדת, הצעות נישואין ואירועים מיוחדים שעת שקיעה חובה מינימום שעתיים
+- Image: https://example.com/assets/image-product-image-1783372707052-2ee127.webp
+
+### טיול ספארי במדבר SAFARI DESERT
+https://example.com/product/tyvl-spary-bmdbr-safari-desert-xguyq2
+- Price: 144.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: טיול מדבר בדובאי הוא אחת האטרקציות המבוקשות ביותר באיחוד האמירויות. החוויה כוללת נסיעה בדיונות, מופעי בידור, ארוחת ערב בסגנון בדואי ואפשרות לרכיבה על גמלים, גלישת חול ופעילויות נוספות. שילוב מושלם של אדרנלין, נופים מרהיבים ואווירה מדברית אותנטית – חוויה שאסור לפספס בביקור בדובאי.
+- Image: https://example.com/assets/product-1783445465948-oym4oo.webp
+
+### פארקי אבו דאבי - Yas Island Abu Dhabi
+https://example.com/product/parky-abv-daby-yas-island-abu-dhabi-s62cak
+- Price: 270.00 ILS
+- Availability: In stock
+- Category: פארקים אבו דאבי
+- Description: פארקי אבו דאבי מציעים חוויה בלתי נשכחת לכל המשפחה עם מגוון פארקי שעשועים מהטובים בעולם. בחרו בין פארקי האקסטרים, פארקי המים ועולמות הדמויות האהובות, ותיהנו מיום מלא באטרקציות, מתקנים מרהיבים ובידור ברמה עולמית. מושלם לילדים, למשפחות ולחובבי אדרנלין.
+- Image: https://example.com/assets/product-1783356638006-zxr0g7.webp
+
+### רכב על המים 
+https://example.com/product/rkb-al-hmym-acyqlw
+- Price: 399.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: רכב על המים - חוויית רכיבה ייחודית על רכב מרחף מעל פני המים של דובאי.
+- Image: https://example.com/assets/product-ai-fit-1783445904413-52z7nh.webp
+
+### טיסה במסוק 
+https://example.com/product/tysh-bmsvk-00kz1c
+- Price: 650.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: טיסה במסוק מעל דובאי תצפית אווירית מרהיבה על קו הרקיע של דובאי ממסוק פרטי.
+- Image: https://example.com/assets/product-1783445993153-t2ofsd.webp
+
+### בורג׳ חליפה burj khalifa
+https://example.com/product/bvrg-chlyph-burj-khalifa-vik7c6
+- Price: 550.00 ILS
+- Availability: In stock
+- Category: מגדלים ותצפיות
+- Description: בורג' ח'ליפה (Burj Khalifa) הוא הבניין הגבוה בעולם ואחת האטרקציות המבוקשות ביותר בדובאי. עלו לתצפית מרהיבה ותיהנו מנוף פנורמי עוצר נשימה של העיר, המדבר והמפרץ הערבי מגובה של מאות מטרים.
+- Image: https://example.com/assets/product-ai-fit-1783447685631-sdq9k8.webp
+
+### אופנוע ים JET SKI
+https://example.com/product/avpnva-ym-jet-ski-0yrwwn
+- Price: 280.00 ILS
+- Availability: In stock
+- Category: שייט ופעילות ימית
+- Description: חוויית אופנוע ים מהנה ועוצמתית באחד החופים היפים ביותר של דובאי. ניתן לבחור יציאה ממרינת דובאי או מאזור בורג' אל ערב, עם אופנועי ים חדישים, ציוד בטיחות מלא והדרכה מקצועית. מתאים לזוגות, משפחות וחובבי אקסטרים – ללא צורך בניסיון קודם.
+- Image: https://example.com/assets/product-1783430928197-llbwhi.webp
+
+### מופע דולפינים 
+https://example.com/product/mvpa-dvlpynym-pv79ik
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: מופעים ומוזיאונים
+- Description: מופע הדולפינים בדובאי הוא אחת האטרקציות המשפחתיות האהובות בעיר. במהלך המופע תיהנו מדולפינים וכלבי ים המבצעים קפיצות מרהיבות, תרגילים מרשימים ומופעי בידור בליווי מוזיקה, תאורה ואפקטים מיוחדים. חוויה מהנה לכל המשפחה המתאימה לילדים ולמבוגרים כאחד.
+- Image: https://example.com/assets/product-ai-fit-1783444275128-c6xqcx.webp
+
+### סקי דובאי
+https://example.com/product/sky-dvbay-t6l2lm
+- Price: 230.00 ILS
+- Availability: In stock
+- Category: פארקים וגנים
+- Description: סקי דובאי הוא אתר הסקי המקורה הראשון במזרח התיכון, הממוקם בתוך קניון Mall of the Emirates. המקום מציע חוויית חורף אמיתית לאורך כל השנה עם מסלולי סקי וסנובורד, פארק שלג ענק, רכבל, מתקני שלג, מפגש עם פינגווינים ושלל אטרקציות לכל המשפחה. ניתן לבחור בין מספר סוגי כרטיסים – החל מכניסה לפארק השלג ועד חוויית פרימיום הכוללת מפגש עם פינגווינים וגלישה
+- Image: https://example.com/assets/product-ai-fit-1783499540562-tqu82f.webp
+
+### טיסה בכדור פורח אטלנטיס The Dubai Balloon at Atlantis
+https://example.com/product/tysh-bkdvr-pvrch-atlntys-the-dubai-balloon-at-atlantis-wwilq3
+- Price: 179.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: The Dubai Balloon at Atlantis הוא כדור פורח ייחודי הממריא לגובה של עד כ-300 מטר מעל אתר הנופש אטלנטיס בפאלם ג'ומיירה. במהלך העלייה נהנים מתצפית פנורמית מרהיבה על הפאלם, קו החוף של דובאי, המרינה, בורג' אל ערב ובורג' ח'ליפה – חוויה מושלמת לצילומים ולכל המשפחה. שעות פעילות: 5:30 בבוקר עד 11:00 בבוקר ומ 18:00 עד 12 בלילה שימו לב!!! במידה ומזג האוויר לא תואם לפעילות האטרקציה לא תפעל והכרטיס יהיה תקף ליום אחר לא ניתן לבטל את הכרטיס או לשנות לאחר רכישה!!!
+- Image: https://example.com/assets/product-1783511208204-owy4e.webp
+
+### פארק IMG Worlds of Adventure
+https://example.com/product/park-img-worlds-of-adventure-o7d3vn
+- Price: 165.00 ILS
+- Availability: In stock
+- Category: פארקים וגנים
+- Description: IMG Worlds of Adventure הוא פארק השעשועים המקורה הגדול בעולם, המציע יום מלא של מתקנים, רכבות הרים, דמויות אהובות כמו מארוול וקריקטון נטוורק, אזורי דינוזאורים, מסעדות וחנויות – והכול באולם ממוזג המתאים לכל עונות השנה.
+- Image: https://example.com/assets/product-1783509278391-0xxtl.webp
+
+### טיסה בכדור פורח  במדבר 
+https://example.com/product/tysh-bkdvr-pvrch-bmdbr-jpjv0i
+- Price: 850.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: כדור פורח במדבר דובאי הוא אחת החוויות היוקרתיות והמרהיבות ביותר באמירויות. עם הזריחה תמריאו מעל דיונות הזהב של המדבר ותיהנו מנופים עוצרי נשימה של המדבר האינסופי, עדרי אוריקס וגמלים באווירה שקטה ובלתי נשכחת. הטיול כולל איסוף והחזרה מהמלון איסוף משוער 03-04 בבוקר
+- Image: https://example.com/assets/product-1783512352004-ipm6zy.webp
+
+### מוזיאון העתיד MUSEUM OF THE FUTURE
+https://example.com/product/mvzyavn-hatyd-museum-of-the-future-cf21aj
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: מופעים ומוזיאונים
+- Description: מוזיאון העתיד הוא אחד מסמליה המרשימים של דובאי ואחת האטרקציות החדשניות בעולם. המוזיאון משלב טכנולוגיה, בינה מלאכותית, חקר החלל, קיימות וחדשנות בחוויה אינטראקטיבית מרהיבה המתאימה לכל המשפחה.
+- Image: https://example.com/assets/product-ai-fit-1783510125521-cj2nzq.webp
+
+### תצפית סקיי וויו  Sky Views Observatory
+https://example.com/product/ttspyt-skyy-vvyv-sky-views-observatory-lrfl6w
+- Price: 75.00 ILS
+- Availability: In stock
+- Category: מגדלים ותצפיות
+- Description: Sky Views Observatory היא אחת התצפיות המרשימות ביותר בדובאי, הממוקמת בגובה של כ-220 מטר במלון Address Sky View. מהתצפית נשקף נוף פנורמי עוצר נשימה של בורג' ח'ליפה, מרכז העיר דובאי וקו הרקיע המפורסם של העיר.
+- Image: https://example.com/assets/product-1783513535295-f0iap.webp
+
+### AYA UNIVERSE DUBAI
+https://example.com/product/aya-universe-dubai-jms12x
+- Price: 94.00 ILS
+- Availability: In stock
+- Category: פארקים וגנים
+- Description: AYA Universe Dubai היא אחת האטרקציות החדשניות והמיוחדות ביותר בדובאי. מדובר בעולם דיגיטלי אינטראקטיבי הכולל חדרים מרהיבים עם אורות, הקרנות, מוזיקה ואפקטים מיוחדים, היוצרים חוויה קסומה המתאימה לכל המשפחה.
+- Image: https://example.com/assets/product-1783514674207-lll82.webp
+
+### מסגרת דובאי DUBAI FRAME
+https://example.com/product/msgrt-dvbay-dubai-frame-t7fzid
+- Price: 45.00 ILS
+- Availability: In stock
+- Category: מגדלים ותצפיות
+- Description: Dubai Frame היא אחת האטרקציות האייקוניות ביותר בדובאי. המסגרת הענקית, המתנשאת לגובה של 150 מטר, מציעה תצפית פנורמית מרהיבה על העיר ומאפשרת לראות את הניגוד המיוחד בין דובאי הישנה לדובאי החדשה – כולל רצפת זכוכית מרשימה וחוויה בלתי נשכחת.
+- Image: https://example.com/assets/product-1783517133930-szldwf.webp
+
+### תצפית הדקלים - The View at The Palm
+https://example.com/product/ttspyt-hdklym-the-view-at-the-palm-c0qbgm
+- Price: 84.00 ILS
+- Availability: In stock
+- Category: מגדלים ותצפיות
+- Description: The View at The Palm היא אחת מנקודות התצפית היפות ביותר בדובאי, הממוקמת בגובה של כ-240 מטר בראש מגדל Palm Tower. מהתצפית נשקף נוף פנורמי מרהיב של אי הדקלים, מלון אטלנטיס, המרינה, קו החוף והמפרץ הערבי.
+- Image: https://example.com/assets/product-1783518884326-y5yane.webp
+
+### פארק המים אטלנטיס  Aquaventure Waterpark
+https://example.com/product/park-hmym-atlntys-aquaventure-waterpark-bxh7vu
+- Price: 230.00 ILS
+- Availability: In stock
+- Category: פארקים וגנים
+- Description: פארק המים אטלנטיס – Aquaventure Waterpark הוא פארק המים הגדול ביותר בעולם ומציע יום מלא באדרנלין, מגלשות ענק, נהרות אבובים, חוף פרטי ואטרקציות לכל המשפחה. חוויה מושלמת לילדים, זוגות ומבוגרים באחד הפארקים הטובים בעולם.
+- Image: https://example.com/assets/product-1783521351890-9kxnks.webp
+
+### קידזניה KIDZANYA DUBAI
+https://example.com/product/kydznyh-kidzanya-dubai-kf24bs
+- Price: 153.00 ILS
+- Availability: In stock
+- Category: אטרקציות לילדים
+- Description: KidZania Dubai היא עיר אינטראקטיבית לילדים הממוקמת בקניון דובאי, שבה הילדים יכולים להתנסות בעשרות מקצועות אמיתיים כמו טייסים, כבאים, רופאים ושפים. חוויה חינוכית, מהנה ומעשירה המשלבת משחק, למידה ופיתוח כישורי חיים – ומתאימה לילדים בגילאי 4–16.
+- Image: https://example.com/assets/product-1783525786305-nhhoy3.webp
+
+### נהיגה עצמית במדבר
+https://example.com/product/nhygh-atsmyt-bmdbr-qwgfv9
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: אקסטרים וטיול מדבר
+- Description: נהיגה עצמית במדבר דובאי היא אחת מחוויות האקסטרים המלהיבות ביותר באמירויות. בחרו בין טרקטורונים, רכבי RZR, באגי ורכבי שטח עוצמתיים, וצאו לנהיגה עצמית בין דיונות החול המרהיבות בליווי מדריכים מקצועיים.
+- Image: https://example.com/assets/product-1783526370225-mwy4pn.webp
+
+### מוזיאון האשליות
+https://example.com/product/mvzyavn-hashlyvt-v7sy7l
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: מופעים ומוזיאונים
+- Description: מוזיאון האשליות דובאי (Museum of Illusions Dubai) הוא אחת האטרקציות הייחודיות והמהנות ביותר בעיר. המוזיאון מציע עשרות אשליות אופטיות, חדרים אינטראקטיביים, משחקי חשיבה ותצוגות מרתקות שישאירו אתכם מופתעים – וחיוך גדול על הפנים. חוויה מושלמת למשפחות, זוגות וחובבי צילום.
+- Image: https://example.com/assets/product-1783530951541-ewzoam.webp
+
+### גן הפרפרים
+https://example.com/product/gn-hprprym-sniteu
+- Price: 59.00 ILS
+- Availability: Out of stock
+- Description: גן הפרפרים דובאי - Butterfly Garden. מאות סוגי פרפרים צבעוניים בסביבה טרופית מרהיבה — חוויה קסומה לכל המשפחה.
+
+### הגן הזוהר - Miracle Garden
+https://example.com/product/hgn-hzvhr-miracle-garden-ch3dx5
+- Price: 79.00 ILS
+- Availability: Out of stock
+- Description: הגן הזוהר של דובאי - Dubai Miracle Garden. מיליוני פרחים בצבעים עזים יוצרים שטיחי פרחים מרהיבים — הגן הטבעי הגדול בעולם.
+
+### גלובל וילג - כרטיס יומי
+https://example.com/product/glvbl-vylg-krtys-yvmy-wxh8fp
+- Price: 25.00 ILS
+- Availability: Out of stock
+- Description: גלובל וילג דובאי - כרטיס כניסה Any Day. מסע תרבותי סביב העולם במקום אחד — ביתנים, מסעדות, בידור ואטרקציות מ-90 מדינות.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Sarah laloum tourism llc
+A luxury Dubai tourism website targeting Israeli travelers, offering a comprehensive one-stop platform for planning a Dubai trip. The site features direct hotel booking links via WhatsApp, curated attraction pages with individual imagery and booking options (yacht rentals, flower garden, Global Village, desert safari, Burj Khalifa, Atlantis water park, Palm Island observation), SIM card referrals, transfers booking form, and future services including car rental and nanny services. The design vision is premium and luxurious, with payment integration desired.
+
+## Services/Products
+- מלונות - פירוט מלונות בדובאי עם קישור להזמנה בוואטסאפ (+972522212578)
+- אטרקציות - השכרת יאכטה, גן הפרחים, גלובל וילג', טיול מדבר, בורג' חליפה, פארק מים אטלנטיס, תצפית אי הדקלים
+- סים - הפניה לאתר חיצוני (https://travelsimobile.co.il/Lobby_SaraLaloum)
+- השכרת רכב - בקרוב
+- העברות - טופס הזמנה עם תאריך, שעה, שם, שדה תעופה ומלון
+- נני - בקרוב
+- מסעדות
+
+## Target Audience
+- תיירים ישראלים המתכננים נסיעה לדובאי
+- תיירים ישראלים
+- תיירות יוקרה
+- משפחות בחופשה
+
+## Industry
+Tourism & Travel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

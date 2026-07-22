@@ -1,0 +1,44 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-07-22T16:23:09.850Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/hotels  /hotels.html  200!
+/sim-card  /sim-card.html  200!
+/airport-transfers  /airport-transfers.html  200!
+/attractions  /attractions.html  200!
+/products  /products.html  200!
+/cart  /cart.html  200!
+/checkout  /checkout.html  200!
+/login  /login.html  200!
+/account  /account.html  200!
+/order-success  /order-success.html  200!
+/return-policy  /return-policy.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+/restaurants  /restaurants.html  200!
+/dubai-magazine-for-israeli-travelers  /dubai-magazine-for-israeli-travelers.html  200!
+/blog/dubai-dining-nightlife  /blog/dubai-dining-nightlife.html  200!
+/dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt  /dvbay-bpam-hrashvnh-ayk-lbnvt-chvpshh-chkmh-naymh-vyvkrtyt.html  200!
+/dubai-must-see-attractions  /dubai-must-see-attractions.html  200!
+/blog/dubai-shopping-guide  /blog/dubai-shopping-guide.html  200!
+/blog/dubai-transportation-smart-guide  /blog/dubai-transportation-smart-guide.html  200!
+/dubai-hotels-marina-downtown-palm  /dubai-hotels-marina-downtown-palm.html  200!
+/blog/kosher-dubai  /blog/kosher-dubai.html  200!
+/blog/kosher-dubai/kosher-restaurants  /blog/kosher-dubai/kosher-restaurants.html  200!
+/blog/kosher-dubai/jewish-life  /blog/kosher-dubai/jewish-life.html  200!
+/blog/kosher-dubai/shabbat-guide  /blog/kosher-dubai/shabbat-guide.html  200!
+/blog/kosher-dubai/jewish-holidays  /blog/kosher-dubai/jewish-holidays.html  200!
+/contact  /contact.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# Dynamic routes - serve dedicated HTML templates for dynamic paths
+/product/*  /product.html  200!
+/category/*  /category.html  200!
